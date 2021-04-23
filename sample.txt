@@ -1,4 +1,4 @@
-thing 1: antelope
+thing 1: alligator
 thing 2: banana
 thing 3: cherry
 thing 4: duran
