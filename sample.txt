@@ -1,5 +1,5 @@
-thing 1: antelope
-thing 2: bear
+thing 1: alligator
+thing 2: banana
 thing 3: cherry
-thing 4: doggo
+thing 4: duran
 thing 5: eggplant
