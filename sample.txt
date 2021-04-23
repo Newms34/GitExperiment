@@ -1,5 +1,5 @@
-thing 1: antelope
+thing 1: apple
 thing 2: banana
 thing 3: cherry
-thing 4: dog
+thing 4: duran
 thing 5: eggplant
